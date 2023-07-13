@@ -1,0 +1,22 @@
+{
+    "people": [
+        {
+            "id":1,
+            "name":"Mike",
+            "age":25,
+            "gender":"M"
+        },
+        {
+            "id":2,
+            "name":"Michelle",
+            "age":23,
+            "gender":"F"
+        },
+        {
+            "id":3,
+            "name":"Mi",
+            "age":22,
+            "gender":"F"
+        }
+    ]
+}
